@@ -4,9 +4,12 @@
 
 #
 
-# this is a DoS (Denial os service) tool that is meant to put heavy load on HTTP servers in order to bring them down.
-# to their knees by exhausting the resource pool, its is meant for research purposes onlyand any malicious usage of this tool is prohibited.
-
+# this is a DoS (Denial os service) tool that is meant to put heavy load on HTTP servers in order to bring them down.
+
+# to their knees by exhausting the resource pool, its is meant for research purposes only
+# and any malicious usage of this tool is prohibited.
+
+
 
 # author : Krakinz ?2022 Inc Krakinzlab version 1.1
 
@@ -14,9 +17,12 @@
 
 import urllib2
 import sys
-import threading
-import random
-import re
+import threading
+
+import random
+
+import re
+
 
 #global params
 
