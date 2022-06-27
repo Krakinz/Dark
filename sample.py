@@ -4,4 +4,4 @@
 
 import os
 from os import system
-os.system('python2 dark.py safaricom.com')
+os.system('python2 Dark.py safaricom.com')
