@@ -13,7 +13,7 @@ Install termux from Fdroid / Playstore
 apt update && apt upgrade
 pkg install python2
 git clone https://github.com/krakinz/Dark.git
-cd dark
+cd Dark
 chmod +x dark.py
 python2 dark.py "link"
 
