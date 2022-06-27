@@ -1,4 +1,6 @@
-## DARK - http cl13nt 0v3rl0ad
+## DARK
+#### A http cl13nt 0v3rl0ad oythin script to perform DoS Attack.
+
 
 Subscribe to my YT channel KrakinzLab
 Link:- 
